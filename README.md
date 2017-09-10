@@ -7,6 +7,6 @@ Using pandas package, analyzing what US People prefers to eat for thanksGiving D
 * Count for main dishes.
 * Figure out about pies people dishes.
 * What is the role of distance or how far the people can travel for Thanksgiving.
-* Correlating income of peoples.
+* Correlating income of people.
 
 and many *more*.
